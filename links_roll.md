@@ -11,3 +11,4 @@
 1. [比特吧](https://www.bitbar.info/)
 1. [长桥](https://longbridgeapp.com/)
 1. [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+1. [李笑来](https://lixiaolai.com/)

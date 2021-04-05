@@ -27,7 +27,7 @@
 * litcoin, 莱特币，一种模仿比特币的山寨币
 * NFT, non-fungible Token，中文名叫非同质化通证。[NFT是什么，有前景吗，哪里可以买到？](https://www.zhihu.com/question/434633802/answer/1756734942)
 * Node, 节点
-* PoA, proof-of-authority, 权威证明
+* PoA, proof-of-authority, 权威证明 // 另外一个说法是 Proof of Assignment，待考
 * PoS, proof-of-stake, 权益证明
 * PoW, proof-of-work, 工作量证明
 * smart contract, 智能合约
