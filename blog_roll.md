@@ -19,3 +19,4 @@
 1. [面向信仰编程](https://draveness.me/)
 1. 阿里核心系统团队blog，值得阅读
 1. InfoQ关于腾讯技术内幕的文章
+1. [湾区理财 原创文集](https://blog.wenxuecity.com/myoverview/23244/)
