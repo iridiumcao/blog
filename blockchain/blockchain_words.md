@@ -20,6 +20,7 @@
 * EVM, Ethereum Virtual Machine, 以太坊虚拟机
 * FIL, filecoin.
 * filecoin, 文件币
+* FOMO, Fear of missing out
 * Gas Fee，以太坊的手续费
 * ICO, Initial Coin Offering
 * IPFS, the Inter-Planetary File System
