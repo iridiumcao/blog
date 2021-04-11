@@ -13,3 +13,4 @@
 1. [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 1. [李笑来](https://lixiaolai.com/)
 1. [Table Convert](https://tableconvert.com/)
+1. [What's New](https://whats.new/shortcuts)

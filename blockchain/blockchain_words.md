@@ -11,6 +11,7 @@
 * BTC, bitcoin, 比特币
 * coinbase transaction, 币基交易
 * Conflux, 
+* DAC, [Decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 * Decentralize, 去中心化
 * DeFi, Decentralized finance, 去中心化金融
 * DEX, Decentralized Exchange, 去中心化交易所
