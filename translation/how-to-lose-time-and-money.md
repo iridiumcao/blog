@@ -6,7 +6,7 @@
 
 When we sold our startup in 1998 I suddenly got a lot of money. I now had to think about something I hadn't had to think about before: how not to lose it. I knew it was possible to go from rich to poor, just as it was possible to go from poor to rich. But while I'd spent a lot of the past several years studying the paths from poor to rich, I knew practically nothing about the paths from rich to poor. Now, in order to avoid them, I had to learn where they were.
 
-当我们在1998年卖掉自己的初创公司时，我突然得到了很多钱。现在我不得不去思考那些我从未思考过的事情：怎么才能不失去这笔钱。我晓得由富返贫是可能的，正如从贫致富那样，都是可能的。但是，过去我花了很多年去学习从贫致富，而从实践上我并不晓得如何由富返贫。现在，为了避免这些，我不得不去学习。
+当我们在1998年卖掉自己的初创公司时，我突然得到了很多钱。现在我不得不去思考那些我从未思考过的事情：怎样才能不失去这笔钱。我晓得由富返贫是可能的，正如从贫致富那样，都是可能的。但是，过去我花了很多年去学习从贫致富，而从实践上我并不晓得如何由富返贫。现在，为了避免这些，我不得不去学习。
 
 So I started to pay attention to how fortunes are lost. If you'd asked me as a kid how rich people became poor, I'd have said by spending all their money. That's how it happens in books and movies, because that's the colorful way to do it. But in fact the way most fortunes are lost is not through excessive expenditure, but through bad investments.
 
