@@ -14,3 +14,4 @@
 1. [李笑来](https://lixiaolai.com/)
 1. [Table Convert](https://tableconvert.com/)
 1. [What's New](https://whats.new/shortcuts)
+1. [State of the Dapps](https://www.stateofthedapps.com/zh)
