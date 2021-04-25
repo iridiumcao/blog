@@ -1,6 +1,7 @@
 # Blockchain 术语
 
 * altcoin, 山寨币
+* ASIC, Application Specific Integrated Circuit, 特殊应用的集成芯片
 * BCH, Bitcoin Cash, 比特现金
 * BCHA, Bitcoin Cash ABC
 * BCHSV, BCH SV, Bitcoin Cash SV, Bitcoin Cash Satoshi Version
@@ -9,6 +10,7 @@
 * blockchain, 区块链
 * BSV, Bitcoin Satoshi Version
 * BTC, bitcoin, 比特币
+* BTF, Byzantine Fault Tolerant, 拜占庭容错
 * coinbase transaction, 币基交易
 * Conflux, 
 * DAC, [Decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
@@ -18,6 +20,7 @@
 * DEX, Decentralized Exchange, 去中心化交易所
 * EIP, 太坊升级提案
 * ETH, Ethereum, 以太坊
+* Ethash, 为以太坊专门设计的hash算法
 * ETC, Ethereum Classic, 以太坊经典
 * EVM, Ethereum Virtual Machine, 以太坊虚拟机
 * FIL, filecoin.
