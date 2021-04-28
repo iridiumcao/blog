@@ -12,10 +12,12 @@
 * BTC, bitcoin, 比特币
 * BTF, Byzantine Fault Tolerant, 拜占庭容错
 * Capital Gains Tax, 资本利得税
+* CBDC, 中央银行数字货币
 * coinbase transaction, 币基交易
 * Conflux, 
 * DAC, [Decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 * DApp, Decentralized Application, 去中心化应用
+* DCA, Digital Currency Area, 数字货币区
 * Decentralize, 去中心化
 * DeFi, Decentralized finance, 去中心化金融
 * DEX, Decentralized Exchange, 去中心化交易所
