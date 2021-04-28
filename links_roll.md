@@ -15,3 +15,4 @@
 1. [Table Convert](https://tableconvert.com/)
 1. [What's New](https://whats.new/shortcuts)
 1. [State of the Dapps](https://www.stateofthedapps.com/zh)
+1. [2021放假日历](https://new.qq.com/omn/20210103/20210103A0DXAA00.html)
