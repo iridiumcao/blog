@@ -17,3 +17,5 @@
 1. [State of the Dapps](https://www.stateofthedapps.com/zh)
 1. [2021放假日历](https://new.qq.com/omn/20210103/20210103A0DXAA00.html)
 1. [碳链价值](https://www.ccvalue.cn/)
+1. [区块链技术与应用讲座](https://www.youtube.com/watch?v=UmVec9VHtpE&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) 北京大学计算机系肖臻
+1. [千锋教育「区块链」以太坊原理&智能合约和钱包开发](https://www.youtube.com/watch?v=zmkKdWebZmM&list=PLwDQt7s1o9J4l1LQ3x2vZ54TPhIh6UvMr)
