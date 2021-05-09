@@ -19,3 +19,6 @@
 1. [碳链价值](https://www.ccvalue.cn/)
 1. [区块链技术与应用讲座](https://www.youtube.com/watch?v=UmVec9VHtpE&list=PLnTPdMjBRmAYehJkVbAXqxO-0cc9ALC6V) 北京大学计算机系肖臻
 1. [千锋教育「区块链」以太坊原理&智能合约和钱包开发](https://www.youtube.com/watch?v=zmkKdWebZmM&list=PLwDQt7s1o9J4l1LQ3x2vZ54TPhIh6UvMr)
+1. [币世界](https://www.bishijie.com/1)
+1. [金色财经](https://www.jinse.com/)
+1. [Bitcoin Talk](https://bitcointalk.org/)

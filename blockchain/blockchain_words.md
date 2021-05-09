@@ -1,5 +1,6 @@
 # Blockchain 术语
 
+* 51% attack
 * a good source of randomness, 好的随机源
 * altcoin, 山寨币
 * ASIC, Application Specific Integrated Circuit, 特殊应用的集成芯片
@@ -28,6 +29,8 @@
 * Decentralize, 去中心化
 * DeFi, Decentralized finance, 去中心化金融
 * DEX, Decentralized Exchange, 去中心化交易所
+* digital commitment
+* digital equivalent of a sealed envelope
 * digital gold 
 * double spending attack, 双花攻击
 * EIP, 太坊升级提案
@@ -50,6 +53,7 @@
 * Merkle Tree, 相比 binary tree, MT 用哈希指针代替了普通指针。
 * miner
 * mining
+* Multi-signature, 多重签名
 * NFT, non-fungible Token，中文名叫非同质化通证。[NFT是什么，有前景吗，哪里可以买到？](https://www.zhihu.com/question/434633802/answer/1756734942)
 * Node, 节点
 * nonce, ETH中的交易计数器
@@ -69,3 +73,4 @@
 * UTXO, Unspent Transaction Output
 * Vitalik
 * white paper, 白皮书，用来描述产品的原理和愿景。
+* Zero-Knowledge Proof, 零知识证明
