@@ -22,3 +22,4 @@
 1. [币世界](https://www.bishijie.com/1)
 1. [金色财经](https://www.jinse.com/)
 1. [Bitcoin Talk](https://bitcointalk.org/)
+1. [区块链指南](https://yeasy.gitbook.io/blockchain_guide/)
