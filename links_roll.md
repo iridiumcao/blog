@@ -23,3 +23,4 @@
 1. [金色财经](https://www.jinse.com/)
 1. [Bitcoin Talk](https://bitcointalk.org/)
 1. [区块链指南](https://yeasy.gitbook.io/blockchain_guide/)
+1. [链闻](https://www.chainnews.com/)
