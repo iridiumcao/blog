@@ -24,3 +24,4 @@
 1. [Bitcoin Talk](https://bitcointalk.org/)
 1. [区块链指南](https://yeasy.gitbook.io/blockchain_guide/)
 1. [链闻](https://www.chainnews.com/)
+1. [廖雪峰的区块链教程](https://www.liaoxuefeng.com/wiki/1207298049439968)
