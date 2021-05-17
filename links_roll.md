@@ -26,3 +26,4 @@
 1. [链闻](https://www.chainnews.com/)
 1. [廖雪峰的区块链教程](https://www.liaoxuefeng.com/wiki/1207298049439968)
 1. [币安学院](https://academy.binancezh.ch/zh)
+1. [白话区块链](https://www.hellobtc.com/)

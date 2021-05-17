@@ -48,6 +48,7 @@
 * ICO, Initial Coin Offering
 * IPFS, the Inter-Planetary File System
 * IPNS, [the InterPlanetary Name System](https://docs.ipfs.io/concepts/ipns/)
+* liquidity mining, 流动性挖矿
 * litcoin, 莱特币，一种模仿比特币的山寨币
 * Longest valid chain, 最长合法链
 * Merkle Tree, 相比 binary tree, MT 用哈希指针代替了普通指针。
@@ -73,4 +74,5 @@
 * UTXO, Unspent Transaction Output
 * Vitalik
 * white paper, 白皮书，用来描述产品的原理和愿景。
+* yield farming, 收益耕作
 * Zero-Knowledge Proof, 零知识证明
