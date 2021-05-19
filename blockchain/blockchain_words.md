@@ -68,6 +68,7 @@
 * SHA， Secure Hash Algorithm
 * smart contract, 智能合约
 * smart contract account, ETH的合约账户
+* STO
 * sybil attack, 女巫攻击
 * transaction-based ledger
 * TPS, transactions per second, 每秒事务处理量
