@@ -46,11 +46,13 @@
 * Gas Fee，以太坊的手续费
 * hash rate
 * ICO, Initial Coin Offering
+* impermanent loss, 非永久性损失，无常损失
 * IPFS, the Inter-Planetary File System
 * IPNS, [the InterPlanetary Name System](https://docs.ipfs.io/concepts/ipns/)
 * liquidity mining, 流动性挖矿
 * litcoin, 莱特币，一种模仿比特币的山寨币
 * Longest valid chain, 最长合法链
+* KYC, know your customer, 了解你的客户
 * Merkle Tree, 相比 binary tree, MT 用哈希指针代替了普通指针。
 * miner
 * mining
