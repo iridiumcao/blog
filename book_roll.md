@@ -5,4 +5,5 @@
 1. [Coursera](https://www.coursera.org)
 1. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 1. [精通比特币](https://www.8btc.com/book/281955)
+1. [精通比特币](https://github.com/tianmingyun/MasterBitcoin2CN)
 1. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
