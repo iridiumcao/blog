@@ -29,3 +29,4 @@
 1. [白话区块链](https://www.hellobtc.com/)
 1. [区块天眼](https://www.wikibit.cn/)
 1. Blockchain explorer: [OKLink](https://www.oklink.com/), [Ether Scan](https://etherscan.io/), [BSC Scan](https://bscscan.com/)
+1. [Coin Dollar Pay](https://coindollarpay.com/)
