@@ -65,6 +65,7 @@
 * PoA, proof-of-authority, 权威证明 // 另外一个说法是 Proof of Assignment，待考
 * PoS, proof-of-stake, Proof of Stake, 权益证明, 股权证明
 * PoW, proof-of-work, Proof of Work, 工作量证明
+* Prooof of Spacetime, 时空证明
 * puzzle friendly
 * replay attack, 重放攻击
 * SHA， Secure Hash Algorithm
